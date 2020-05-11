@@ -1,0 +1,10 @@
+name: zoeShuffle
+main: ch.kalunight.zoeshuffle.ZoeSchufflePlugin
+authors: [KaluNitht]
+version: "1.0"
+api-version: "1.15"
+
+commands:
+ shuffleStart:
+  description: Démarre la partie
+  usage: /shuffleStart
